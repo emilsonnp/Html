@@ -25,8 +25,7 @@ Utilizar todas as tags explicadas nas aulas:
 - sup 
 - blockquote;
 
-
- Utilizar novas tags sugeridas: A ideia é buscar estas tags na internet, entender como ela funciona e utilizar no texto.
+Utilizar novas tags sugeridas: A ideia é buscar estas tags na internet, entender como ela funciona e utilizar no texto.
 - font
 - del
 - abbr 
