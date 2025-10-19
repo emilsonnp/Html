@@ -26,5 +26,11 @@ Utilizar todas as tags explicadas nas aulas:
 - blockquote;
 
 
-Utilizar novas tags sugeridas: font, del, p, abbr a ideia é buscar estas tags na internet, entender como ela funciona e utilizar no texto.
+Utilizar novas tags sugeridas: 
+- font
+- del
+- p
+- abbr 
+
+A ideia é buscar estas tags na internet, entender como ela funciona e utilizar no texto.
 
